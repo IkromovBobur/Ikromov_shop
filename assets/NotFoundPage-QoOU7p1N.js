@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-x3n3nnut.js";import{c,o}from"./index-hxfRZS_a.js";const t={};function r(n,a){return o(),c("h1",null," 404 ERROR")}const d=e(t,[["render",r],["__scopeId","data-v-6c6e75cd"]]);export{d as default};
